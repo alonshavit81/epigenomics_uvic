@@ -83,6 +83,25 @@ Genes were classified by H3K4me3 peak presence at their TSS:
 
 ---
 
+## Supplementary: ATAC-seq Downstream Analyses (Section 4)
+
+### Background
+ATAC-seq identifies open chromatin regions genome-wide. By classifying peaks relative to gene annotations, we distinguish promoter-associated from distal open chromatin.
+
+### Data
+ATAC-seq pseudoreplicated peaks from ENCODE: Stomach (ENCFF762IFP: 103,609 peaks), Sigmoid Colon (ENCFF287UHP: 110,999 peaks).
+
+### Results
+
+| Tissue | Total Peaks | Overlapping Promoters | Outside Gene Body |
+|--------|------------|----------------------|-------------------|
+| Stomach | 103,609 | 44,749 (43.2%) | 34,537 (33.3%) |
+| Sigmoid Colon | 110,999 | 47,871 (43.1%) | 37,035 (33.4%) |
+
+### Biological Interpretation
+The distribution is consistent between tissues: ~43% at promoters, ~33% outside gene bodies. The ~34,000-37,000 distal peaks per tissue represent candidate regulatory elements used in Exercise 5. Sigmoid colon shows more peaks overall (110,999 vs 103,609), potentially reflecting higher cellular heterogeneity.
+
+---
 ## 4. Exercise 5: Distal Regulatory Activity (Section 5)
 
 ### 4.1 Background
