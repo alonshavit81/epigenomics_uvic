@@ -1,2 +1,0 @@
-ENCFF268RWA	sigmoid_colon
-ENCFF918KPC	stomach

@@ -1,0 +1,16 @@
+Section 4 - EN-TEx ATAC-seq data: downstream analyses
+
+Task 1: Folder structure created for ATAC-seq (data/bigBed.files, analyses/peaks.analysis)
+
+Task 2: ATAC-seq peaks downloaded from ENCODE
+  ENCFF287UHP - sigmoid_colon: 110999 peaks
+  ENCFF762IFP - stomach: 103609 peaks
+
+Task 3: Intersection analysis using BEDTools
+  Peaks overlapping promoter regions:
+    Sigmoid colon: 47871
+    Stomach: 44749
+
+  Peaks outside gene body coordinates:
+    Sigmoid colon: 37035
+    Stomach: 34537
