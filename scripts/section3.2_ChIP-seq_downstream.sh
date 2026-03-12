@@ -1,6 +1,7 @@
 #!/bin/bash
 # Section 3.2: EN-TEx ChIP-seq downstream analyses (Exercise 4)
 # Author: Alon Shavit
+# Instructors: Beatrice Borsari, Diego Garrido
 
 #############################
 ## Data Setup

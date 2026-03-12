@@ -1,6 +1,7 @@
 #!/bin/bash
 # Section 4: EN-TEx ATAC-seq downstream analyses
 # Author: Alon Shavit
+# Instructors: Beatrice Borsari, Diego Garrido
 
 ## Task 1: Create folder structure
 mkdir -p ATAC-seq/analyses/peaks.analysis

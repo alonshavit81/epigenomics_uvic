@@ -1,6 +1,7 @@
 #!/bin/bash
 # Section 5: Distal regulatory activity
 # Author: Alon Shavit
+# Instructors: Beatrice Borsari, Diego Garrido
 
 ## Task 1: Create folder
 mkdir -p regulatory_elements
