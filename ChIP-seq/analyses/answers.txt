@@ -1,0 +1,18 @@
+Section 3.2 - EN-TEx ChIP-seq data: downstream analyses
+
+Data: H3K4me3 and POLR2A ChIP-seq for stomach and sigmoid colon (donor ENCDO451RUA)
+
+Peak files:
+  ENCFF668DFB - sigmoid_colon H3K4me3
+  ENCFF5021JF - stomach H3K4me3
+  ENCFF477DXO - sigmoid_colon POLR2A
+  ENCFF979WAV - stomach POLR2A
+
+Analyses completed:
+  - Aggregation plots for H3K4me3 and POLR2A
+  - Scatterplot correlation between tissues
+  - Venn diagrams of peak overlap (H3K4me3 vs POLR2A)
+  - Gene expression analysis (top 1000 most/least expressed genes)
+  - Tissue-specific peak identification
+  - Boxplot expression analysis
+  - Metascape GO enrichment analysis
