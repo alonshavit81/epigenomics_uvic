@@ -1,0 +1,18 @@
+Section 5 - Distal Regulatory Activity Results
+
+Task 2: Candidate regulatory elements
+  Stomach: 12740
+  Sigmoid colon: 16439
+
+Task 3: Regulatory elements on chr1
+  Stomach: 1545
+  Sigmoid colon: 1734
+
+Task 4: Protein-coding genes on chr1: 2047
+
+Task 5: get.distance.py test
+  ENSG00000187642.9    982093    2093
+
+Task 7: Distance to closest gene
+  Stomach - mean: 47985.17, median: 27808
+  Sigmoid colon - mean: 73019.11, median: 35365
